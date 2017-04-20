@@ -1,3 +1,0 @@
-#!/bin/bash
-
-python /home/tlcong/programfile/dict/dict.py "$1"
